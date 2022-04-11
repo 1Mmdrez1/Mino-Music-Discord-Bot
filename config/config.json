@@ -4,7 +4,8 @@
   "ownerIDS": [
     "553225405302308904"
   ],
-  "mongo": "MONGO_DB_URL",
+  "mongo": "mongodb+srv://SwellyBot:moh1234567moh09398060816@cluster0.iaaeb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+ "database",
   "everyoneMention": false,
   "hostedBy": true,
   "customFilters": {
